@@ -1,0 +1,17 @@
+.env
+*.env
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+data/chroma_db/
+data/embedding_model.pkl
+logs/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

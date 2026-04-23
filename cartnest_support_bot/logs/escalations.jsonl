@@ -1,0 +1,4 @@
+{"timestamp": "2026-04-23T22:20:55.034977", "ticket_id": "CN-83DB7F", "query": "My account was hacked!", "intent": "escalation", "escalation_reason": "", "confidence": ""}
+{"timestamp": "2026-04-23T22:21:05.160555", "ticket_id": "CN-600B9C", "query": "I want to report a fraud complaint", "intent": "escalation", "escalation_reason": "", "confidence": ""}
+{"timestamp": "2026-04-23T22:39:46.659074", "ticket_id": "CN-83DB7F", "query": "My account was hacked!", "intent": "escalation", "escalation_reason": "", "confidence": ""}
+{"timestamp": "2026-04-23T22:39:54.829942", "ticket_id": "CN-600B9C", "query": "I want to report a fraud complaint", "intent": "escalation", "escalation_reason": "", "confidence": ""}
